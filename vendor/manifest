@@ -54,6 +54,12 @@
 			"branch": "master"
 		},
 		{
+			"importpath": "github.com/pborman/uuid",
+			"repository": "https://github.com/pborman/uuid",
+			"revision": "e533369306653d193b93dae055f6083cbf8ba54f",
+			"branch": "master"
+		},
+		{
 			"importpath": "github.com/valyala/bytebufferpool",
 			"repository": "https://github.com/valyala/bytebufferpool",
 			"revision": "e746df99fe4a3986f4d4f79e13c1e0117ce9c2f7",
